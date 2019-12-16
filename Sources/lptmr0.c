@@ -1,3 +1,9 @@
+/**
+ * @author Juraj Holub <xholub40>
+ * @brief LPTMR0 interrupt handle.
+ * @date December 2019
+ * @project VUT FIT - IMP
+ */
 
 #include "lptmr0.h"
 #include "display.h"

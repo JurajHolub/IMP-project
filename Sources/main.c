@@ -1,3 +1,10 @@
+/**
+ * @author Juraj Holub <xholub40>
+ * @brief Initialization of MCU and idle loop.
+ * @date December 2019
+ * @project VUT FIT - IMP
+ */
+
 /*
  * Copyright (c) 2015, Freescale Semiconductor, Inc.
  * All rights reserved.

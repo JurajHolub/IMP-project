@@ -1,8 +1,8 @@
-/*
- * display.h
- *
- *  Created on: Dec 12, 2019
- *      Author: root
+/**
+ * @author Juraj Holub <xholub40>
+ * @brief Mapping of Led displey pins to MCU pins.
+ * @date December 2019
+ * @project VUT FIT - IMP
  */
 
 #ifndef SOURCES_DISPLAY_H_

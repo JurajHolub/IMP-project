@@ -1,8 +1,8 @@
-/*
- * lptmr0.h
- *
- *  Created on: Dec 15, 2019
- *      Author: root
+/**
+ * @author Juraj Holub <xholub40>
+ * @brief LPTMR0 interrupt handle.
+ * @date December 2019
+ * @project VUT FIT - IMP
  */
 
 #ifndef SOURCES_LPTMR0_H_

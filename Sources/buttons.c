@@ -1,8 +1,8 @@
-/*
- * buttons.c
- *
- *  Created on: Dec 14, 2019
- *      Author: root
+/**
+ * @author Juraj Holub <xholub40>
+ * @brief Handle of button push interrupts.
+ * @date December 2019
+ * @project VUT FIT - IMP
  */
 
 #include "buttons.h"

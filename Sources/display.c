@@ -1,3 +1,10 @@
+/**
+ * @author Juraj Holub <xholub40>
+ * @brief Mapping of Led displey pins to MCU pins.
+ * @date December 2019
+ * @project VUT FIT - IMP
+ */
+
 #include "display.h"
 
 const unsigned MAP[] = {
